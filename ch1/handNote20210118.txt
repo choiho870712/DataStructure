@@ -1,0 +1,120 @@
+new word
+-----------------
+attained 達到
+emphasize 注重
+rudiment 萌芽
+specification 規範
+methodology 方法
+fleeting 轉瞬即逝
+acquaintance 熟知
+regard A as B 把A視為B
+consist 組成
+interrelated 相關
+crude 原始
+vague 模糊
+rigorous 嚴格
+delineate 描寫
+earnest 熱切
+error-ridden 錯誤 
+segment 片段
+akin 類似
+generic 通用
+blueprint 藍圖
+specific 具體的
+purpose 目的
+irrelevant 不相關的
+perspective 看事情的角度
+particularly 尤其是
+prior 事前
+in contrast 相反的
+alternate 備用
+postpone 延期
+specify 指定
+deferring 推遲
+representation 表示
+crucial 關鍵
+superior 更優秀
+absorb 吸收
+commitment 遞交
+scrap 毀掉
+comfort 安慰
+aspect 方面
+abound in 充足的
+constraint 約束
+arsenal 兵工廠
+theoretical 理論的
+estimates 估計
+gather 收集
+portion 一部分
+pursue 追求
+properly 適當的
+indicate 指出
+erroneous 錯誤
+autonomous 獨立的
+integrate 整合
+omitted 省略
+legitimate 合法的
+tactic 戰術
+explicit 明確的
+urged 督促
+proceed 繼續
+carried out 執行
+feasible 可行
+occasionally 偶爾
+resort 採取
+illustrate 說明
+
+
+
+
+necessary methodology
+------------------------
+data abstraction
+algorithm specification
+performance analysis and measurement
+
+
+
+system life cycle
+------------------------
+Requirement
+	why need it?
+Analysis
+	what is it?
+	top-down approach
+Design
+	how to do?
+	ADT
+		decide information required for each data object
+		OOP graph
+		choose data structure
+	operation
+		decide the function required
+		choose algorithm
+		choose language
+Coding
+	write those algorithms that are independent of the data object first
+
+Verification
+	correctness proof of algorithm
+	testing all case
+	unit test
+
+
+
+pointer
+--------------------------
+danging reference
+	one of memory leak cause by never return storage of pointer
+
+
+algorithm definition
+--------------------------
+input
+output
+definiteness
+finiteness (without this, we call it program)
+effectiveness
+
+
+
